@@ -2,7 +2,7 @@
 using MelonLoader;
 using System;
 
-[assembly: MelonInfo(typeof(FumoTagsMelonLoader.Loader), "Fumo Tags Melonloader", "1.0.2", "Mezque", "placeholder")]
+[assembly: MelonInfo(typeof(FumoTagsMelonLoader.Loader), "Fumo Tags Melonloader", "1.0.0.3", "Mezque", "placeholder")]
 [assembly: MelonColor(ConsoleColor.Red)]
 [assembly: MelonGame("VRChat", "VRChat")]
 
